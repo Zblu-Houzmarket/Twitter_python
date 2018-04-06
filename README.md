@@ -72,9 +72,9 @@ Also, input twitter username you want to download tweets from.
 ## We are discussing tweet analysis
 
 
-For this article, I have fetched tweets from 01-Jan-2015 to 25-Sep-2017. To get the CSV file of tweets from @CityofAtlanta, the command is:
+For this article, I have fetched tweets from 01-Jan-2015 to 25-Sep-2017. To get the CSV file of tweets from @Cityofatlanta, the command is:
 
-$ python tweets_analysis CityofAtlanta
+$ python tweets_analysis Cityofatlanta
 
 
 # I am using this reference see given below link
