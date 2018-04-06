@@ -50,19 +50,19 @@
 
 
 #Twitter API credentials
-1. consumer_key = "Consumer key goes here"
-2. consumer_secret = "Consumer secret goes here"
-3. access_key = "access key goes here"
-4. access_secret = "access secret goes here"
+1.  consumer_key = "Consumer key goes here"
+2.  consumer_secret = "Consumer secret goes here"
+3.  access_key = "access key goes here"
+4.  access_secret = "access secret goes here"
 
 
 Also, input twitter username you want to download tweets from.
 
-1  if __name__ == '__main__':
+1.   if __name__ == '__main__':
 
-2    #pass in the username of the account you want to download
+2.    #pass in the username of the account you want to download
 
-3   get_all_tweets("user name goes here")  #Example:@CityofAtlanta
+3.    get_all_tweets("user name goes here")  #Example:@CityofAtlanta
 
 # I am using this reference see given below link
    
